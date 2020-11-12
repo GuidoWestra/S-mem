@@ -1,1 +1,1 @@
-console.log("dont be affraid to ask questions");
+console.log("dont ever  be affraid to ask questions");
